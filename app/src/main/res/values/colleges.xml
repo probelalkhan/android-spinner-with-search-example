@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name">Spinner with Search</string>
+
+    <string-array name="colleges">
+
+    //Arts and Science Colleges
+
+        <item>Mahatma Gandhi Government College,Andaman and Nicobar Islands</item>
+        <item>Tagore Government College of Education,Andaman and Nicobar Islands</item>
+
+        <item>Dr B R Ambedkar Institute of Technology Port Blair,Andaman and Nicobar Islands</item>
+
+
+
+        <item>Government Arts College, Rajahmundry,Andhra Pradesh</item>
+
+        <item>Government Medical College, Anantapur,Andhra Pradesh</item>
+        <item>Maharajah\'s Government College of Music and Dance,Andhra Pradesh</item>
+        <item>P. V. K. N. Government College,Andhra Pradesh</item>
+        <item>Silver Jubilee Government Degree College,Andhra Pradesh</item>
+
+        <item>Dera Natung Government College,Arunachal Pradesh</item>
+
+        <item>Diphu Government College,Assam</item>
+
+        <item>Babasaheb Bhimrao Ambedkar Bihar University,Bihar</item>
+        <item>Indian Institute of Technology,Bihar</item>
+        <item>Rajendra Agricultural University,Bihar</item>
+        <item>Jawaharlal Nehru Engineering College,Bihar</item>
+        <item>Government College of Engineering,Bihar</item>
+        <item>Maulana Azad College of Engineering and Technology,Bihar</item>
+        <item>National Institute of Technology,Bihar</item>
+
+        <item>Government Engineering College, Patan,Gujarat</item>
+        <item>Government Engineering College, dahod,Gujarat</item>
+        <item>sardar vallabhai institute of technology , surat,Gujarat</item>
+
+        <item>Jawaharlal Nehru Government Engineering College, Sundernagar,Himachal Pradesh</item>
+
+        <item>Government Degree College, Ganderbal,Jammu Kashmir</item>
+        <item>Government Degree College Kathua,Jammu Kashmir</item>
+        <item>Government Degree College Sopore,Jammu  Kashmir</item>
+        <item>Government College of Engineering and Technology,Jammu  Kashmir</item>
+
+        <item>Government Dental College, Bangalore,Karnataka</item>
+        <item>Government Pharmacy College, Bangalore,Karnataka</item>
+        <item>Vedavathi Government First Grade College, Karnataka</item>
+        <item>Government Engineering College, Ramanagaram,Karnataka</item>
+        <item>Govt First Grade College Ankola,Karnataka</item>
+
+       <item> Government College, Chittur, Kerala</item>
+        <item>Government College, Kattappana, Kerala</item>
+        <item>Government College, Kottayam, Kerala</item>
+        <item>Government College, Manimalakkunnu, Kerala</item>
+        <item>Government Homoeopathic Medical College, Calicut, Kerala</item>
+        <item>Government Law College, Calicut, Kerala</item>
+        <item>Government College of Engineering, Kannur, Kerala</item>
+        <item>Government Medical College, Kottayam, Kerala</item>
+        <item>Government Engineering College, Idukki, Painavu, Kerala</item>
+        <item>Government Engineering College, Thrissur, Kerala</item>
+        <item>Government Law College, Thrissur, Kerala</item>
+        <item>Government Law College, Thiruvananthapuram, Kerala</item>
+
+        <item>Government Medical College, Thiruvananthapuram, Kerala</item>
+        <item>Government Medical College, Thrissur, Kerala</item>
+        <item>Government Engineering College, Kozhikode, Kerala</item>
+        <item>Government Engineering College, Sreekrishnapuram, Kerala</item>
+        <item>Government Engineering College, Wayanad, Kerala</item>
+        <item>Government Law College, Ernakulam, Kerala</item>
+        <item>Government Victoria College, Palakkad, Kerala</item>
+        <item>Sri C. Achutha Menon Government College, Kerala</item>
+
+        <item>Government Degree College, Bijawar,Madhya Pradesh</item>
+        <item>Government Engineering College, Rewa,Madhya Pradesh</item>
+        <item>Government Girls P.G. College, Chhatarpur,Madhya Pradesh</item>
+        <item>Government Maharaja P.G. College,Chhatarpur(M.P.),Madhya Pradesh</item>
+
+        <item>Dr. V. M. Government Medical College, Solapur,  Maharashtra</item>
+        <item>Government Colleges Hostel, Mumbai,  Maharashtra</item>
+        <item>Government Law College, Mumbai,  Maharashtra</item>
+        <item>Government College of Engineering, Amravati,  Maharashtra</item>
+        <item>Government College of Engineering, Aurangabad,  Maharashtra</item>
+        <item>Government College of Engineering, Karad,  Maharashtra</item>
+        <item>Government Medical College, Aurangabad,  Maharashtra</item>
+        <item>Government Medical College, Akola,  Maharashtra</item>
+
+        <item>Government Medical College, Latur,  Maharashtra</item>
+        <item>Shri Bhausaheb Hire Government Medical College, Dhule,  Maharashtra</item>
+        <item>Shri Vasantrao Naik Government Medical College, Yavatmal,  Maharashtra</item>
+
+        <item>Pachhunga University College, the constituent college of Mizoram University,Mizoram</item>
+        <item>Aizawl College,Mizoram</item>
+        <item>Zirtiri Residential Science College, Aizawl,Mizoram</item>
+        <item>College of Teachers Education, Aizawl,Mizoram</item>
+        <item>Lunglei College,Mizoram</item>
+        <item>Champhai college,Mizoram</item>
+        <item>Saiha College,Mizoram</item>
+        <item>Government Serchhip College,Mizoram</item>
+        <item>Hrangbana College,Mizoram</item>
+        <item>Aizawl West College,Mizoram</item>
+        <item>J.Thankima College,Mizoram</item>
+        <item>T. Romana College,Mizoram</item>
+        <item>Saitual College,Mizoram</item>
+        <item>Lawngtlai College,Mizoram</item>
+        <item>Khawzawl College,Mizoram</item>
+        <item>Mizoram Law College,Mizoram</item>
+        <item>Regional Institute of Paramedical and Nursing Aizawl,Mizoram</item>
+        <item>Mizoram College of Nursing,Mizoram</item>
+        <item>National Institute of Electronics and Information Technology, Aizawl,Mizoram</item>
+        <item>Higher and Technical Institute of Mizoram,Mizoram</item>
+
+        <item>Government Autonomous College, Angul,Orissa</item>
+        <item>Government Autonomous College, Bhawanipatna,Orissa</item>
+        <item>Government Autonomous G.M.College,Sambalpur,Orissa</item>
+        <item>Panchayat College,Bargarh,Orissa</item>
+
+        <item>Government College of Education, Chandigarh,Punjab</item>
+        <item>Government Medical College, Amritsar,Punjab</item>
+        <item>Government Medical College, Patiala,Punjab</item>
+        <item>NJSA Government College, Kapurthala,Punjab</item>
+        <item>Satish Chander Dhawan Government College For Boys,Punjab</item>
+
+        <item>Babu Shobha Ram Government. Arts College, Alwar,Rajasthan</item>
+        <item>Government College, Ajmer,Rajasthan</item>
+        <item>Government Engineering College, Ajmer,Rajasthan</item>
+        <item>Government Engineering College, Jhalawar,Rajasthan</item>
+        <item>Government Mahila Engineering College,Rajasthan</item>
+        <item>Government Medical College, Kota,Rajasthan</item>
+        <item>Shri Kalyan Government College, Sikar,Rajasthan</item>
+
+
+
+        <item>CPT, Taramani,Tamil Nadu</item>
+        <item>Alagappa Government Arts College, Karaikudi,Tamil Nadu</item>
+        <item>Dr. Ambedkar Government Law College, Chennai,Tamil Nadu</item>
+        <item>Government Arts College, Coimbatore,Tamil Nadu</item>
+        <item>Government Arts College, Kumbakonam,Tamil Nadu</item>
+        <item>Government Arts College, Ooty,Tamil Nadu</item>
+        <item>Government College of Fine Arts, Chennai,Tamil Nadu</item>
+        <item>Government College of Technology, Coimbatore,Tamil Nadu</item>
+        <item>Government Law College, Coimbatore,Tamil Nadu</item>
+        <item>Government College of Arts  Science (Surandai),Tamil Nadu</item>
+        <item>Government College of Engineering, Bargur,Tamil Nadu</item>
+        <item>Government College of Engineering, Salem,Tamil Nadu</item>
+        <item>Government College of Engineering, Tirunelveli,Tamil Nadu</item>
+        <item>Government Law College, Tiruchirapalli,Tamil Nadu</item>
+        <item>Government Polytechnic College, Nagercoil,Tamil Nadu</item>
+        <item>Kanyakumari Government Medical College,Tamil Nadu</item>
+        <item>Loganatha Narayanasamy Government Arts College, Ponneri,Tamil Nadu</item>
+        <item>QuaideMillath Government College for Women,Tamil Nadu</item>
+        <item> Government Nizamia Tibbi College, Hyderabad, Telangana</item>
+        <item>Pingle Government Degree College for Women, Warangal, Telangana</item>
+        <item>Agartala Government Medical College,Tripura</item>
+        <item>Government College of Architecture, Lucknow,Uttar Pradesh</item>d
+        <item>Government Sanskrit College , Varanasi,Uttar Pradesh</item>
+        <item>Ramabai Government Women Post Graduate College, Ambedkar Nagar,Uttar Pradesh</item>
+        <item>SLJB PG College,Uttar Pradesh</item>
+        <item>National Institute of Technology Uttarakhand, Srinagar,Uttrakhand</item>
+        <item>Darjeeling Government College, Darjeeling,West Bengal</item>
+        <item>Acharya Prafulla Chandra Roy Government College, Siliguri, Darjeeling,West Bengal</item>
+        <item>Jalpaiguri Government Engineering College, Jalpaiguri,West Bengal</item>
+        <item>ABN Seal College, A Govt. College in Coochbehar,West Bengal</item>
+        <item>Government College of Engineering and Textile Technology, Berhampore, Murshidabad,West Bengal</item>
+        <item>Krishnagar Government College, Nadia,West Bengal</item>
+        <item>Durgapur Government College, Burdwan,West Bengal</item>
+        <item>Kalyani Govt. Engineering College, Kalyani, Nadia,West Bengal</item>
+        <item>Hooghly Mohsin College, Hooghly,West Bengal</item>
+        <item>Chandernagar Govt. College, Hooghly,West Bengal</item>
+      <item>College of Textile Technology, Serampore, Hooghly,West Bengal</item>
+        <item>Barasat Government College, N24,West Bengal</item>
+        <item>Taki Government College, N24,West Bengal</item>
+       <item>Bidhannagar Govt. College, N24,West Bengal</item>
+        <item>Maulana Azad College, Kolkata,West Bengal</item>
+        <item>Lady Brabourne College, Kolkata,West Bengal</item>
+        <item>Bethune College, Kolkata,West Bengal</item>
+        <item>Sanskrit College, Kolkata,West Bengal</item>
+        <item>Goenka College of Commerce and Business Administration, Kolkata,West Bengal</item>
+        <item>Government College of Engineering and Ceramic Technology, Kolkata,West Bengal</item>
+        <item>Government College of Engineering and Leather Technology, Kolkata,West Bengal</item>
+        <item>Jhargram Raj College, West Midnapore,West Bengal</item>
+        <item>Haldia Government College, East Midnapore,West Bengal</item>
+        <item>Government General Degree College, Mangalkote,West Bengal</item>
+        <item>Muragachha Government College, Muragachha,West Bengal</item>
+        <item>Government General Degree College, Kalna,West Bengal</item>
+        <item>Government College of Art and  Craft, K,West Bengal</item>
+        <item>Kushmandi Government College,West Bengal</item>
+
+
+    </string-array>
+</resources>

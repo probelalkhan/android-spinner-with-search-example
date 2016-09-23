@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="subjects">
+
+
+        <item name="c">c</item>
+        <item name="c++">c++</item>
+        <item name="java">java</item>
+        <item name="php">php</item>
+        <item name="oracle">oracle</item>
+    </string-array>
+</resources>
